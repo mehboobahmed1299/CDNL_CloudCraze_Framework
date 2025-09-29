@@ -1,0 +1,548 @@
+2025-09-26 00:09:34,972 [main] INFO  utility.LoggerUtility - Login Test started
+2025-09-26 00:09:46,721 [main] INFO  utility.LoggerUtility - Login Test completed
+2025-09-26 00:16:21,658 [main] INFO  com.ui.tests.LoginTest - Login Test started
+2025-09-26 00:16:33,165 [main] INFO  com.ui.tests.LoginTest - Login Test completed
+2025-09-26 00:26:30,148 [main] INFO  com.ui.tests.LoginTest - Login Test started
+2025-09-26 00:26:47,902 [main] INFO  com.ui.tests.LoginTest - Login Test completed
+2025-09-26 01:15:41,594 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-26 01:15:56,024 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-26 01:15:56,025 [main] INFO  com.ui.listeners.TestListeners - Test started: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@6572421]
+2025-09-26 01:16:11,914 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-26 01:16:11,916 [main] INFO  com.ui.listeners.TestListeners - Test passed: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@6572421]
+2025-09-26 01:16:12,011 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-26 01:30:24,912 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-26 01:30:28,060 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-26 01:30:28,061 [main] INFO  com.ui.listeners.TestListeners - Test started: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@6572421]
+2025-09-26 01:30:35,547 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-26 01:30:35,548 [main] INFO  com.ui.listeners.TestListeners - Test passed: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@6572421]
+2025-09-26 01:30:35,604 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-26 22:26:38,299 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-26 22:26:46,856 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-26 22:26:46,856 [main] INFO  com.ui.listeners.TestListeners - Test started: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@6572421]
+2025-09-26 22:27:00,407 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-26 22:27:00,409 [main] INFO  com.ui.listeners.TestListeners - Test passed: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@6572421]
+2025-09-26 22:27:00,492 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-26 22:31:01,676 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-26 22:31:01,711 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-26 22:31:16,759 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-26 22:31:16,760 [main] INFO  com.ui.listeners.TestListeners - Test started: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@50de186c]
+2025-09-26 22:31:39,104 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-26 22:31:39,104 [main] INFO  com.ui.listeners.TestListeners - Test passed: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@50de186c]
+2025-09-26 22:31:39,175 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-26 22:32:16,456 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-26 22:32:16,488 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-26 22:32:19,551 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-26 22:32:19,552 [main] INFO  com.ui.listeners.TestListeners - Test started: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@50de186c]
+2025-09-26 22:32:19,558 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-26 22:32:26,899 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-26 22:32:26,901 [main] INFO  com.ui.listeners.TestListeners - Test passed: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@50de186c]
+2025-09-26 22:32:27,049 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-27 00:51:38,539 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-27 00:51:38,569 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-27 00:51:50,459 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-27 00:51:50,460 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-27 00:51:50,469 [main] WARN  com.ui.listeners.TestListeners - Test skipped: loginTest
+2025-09-27 00:51:50,469 [main] WARN  com.ui.listeners.TestListeners - Test skipped: LoginTest.loginTest()[pri:0, instance:com.ui.tests.LoginTest@35645047]
+2025-09-27 00:51:50,512 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-27 00:52:33,476 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-27 00:52:33,508 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-27 00:52:36,374 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-27 00:52:36,374 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-27 00:52:36,391 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-27 00:52:47,178 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-27 00:52:47,181 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-27 00:52:47,256 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 11:02:01,835 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 11:02:01,856 [main] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-09-28 11:02:02,890 [main] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-09-28 11:02:04,457 [main] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-09-28 11:02:04,497 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 11:02:04,498 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 11:02:15,996 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 11:02:15,996 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 11:02:16,012 [main] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-09-28 11:02:16,290 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 11:10:32,736 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 11:10:32,768 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 11:10:38,660 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 11:10:40,732 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 11:10:40,777 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 11:10:40,777 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 11:10:57,319 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 11:10:57,320 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 11:10:57,326 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 11:10:57,738 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 11:24:18,406 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 11:24:18,436 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 11:24:19,615 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 11:24:21,594 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 11:24:21,650 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 11:24:21,651 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 11:25:03,756 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 11:25:03,758 [main] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.id: #mugsPerDay (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62454}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62454/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b60bf77ba0b20ac47e4fb82bdd160efb
+2025-09-28 11:25:03,765 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 11:25:04,158 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:03:23,061 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:03:23,089 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:03:24,311 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:03:27,795 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:03:27,834 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:03:27,835 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:04:10,585 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 12:04:10,589 [main] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.id: #mugsPerDay (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54372}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54372/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 66e2416902b45cbae6b32a76edb54cc4
+2025-09-28 12:04:10,597 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:04:10,991 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:06:50,398 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:06:50,426 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:06:51,618 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:06:53,427 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:06:53,483 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:06:53,484 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:07:06,008 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:07:06,009 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:07:06,009 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:07:06,338 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:07:43,044 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:07:43,070 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:07:44,241 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:07:46,548 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:07:46,595 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:07:46,595 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:07:58,686 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:07:58,687 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:07:58,697 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:07:59,062 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:10:40,881 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:10:40,914 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:10:47,358 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:10:49,525 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:10:49,571 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:10:49,571 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:11:03,331 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:11:03,331 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:11:03,345 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:11:03,711 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:40:41,120 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:40:41,152 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:40:42,418 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:40:44,670 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:40:44,717 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:40:44,718 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:41:26,742 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 12:41:26,743 [main] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.id: fileUpload (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53924}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53924/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4b8f694f8489a6db88ed57e55edf2ec8
+2025-09-28 12:41:26,750 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:41:27,197 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:43:39,439 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:43:39,472 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:43:40,665 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:43:42,656 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:43:42,707 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:43:42,707 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:44:25,497 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 12:44:25,499 [main] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='file'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50254}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50254/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a32ea5e3bf9ce4f06df233c55f2ea19
+2025-09-28 12:44:25,505 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:44:25,913 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:45:11,106 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:45:11,132 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:45:12,291 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:45:14,153 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:45:14,197 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:45:14,198 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:45:28,064 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 12:45:28,064 [main] ERROR com.ui.listeners.TestListeners - Test failed: element not interactable
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d9205839eab160576e3e26c05c2106a6, sendKeysToElement {id=f.303E0961036D9B11F426BD875C137DEE.d.5A31A474ACC11DCD1B24CFD3E1E395E9.e.87, value=[Ljava.lang.CharSequence;@1abc9f14}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60980}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60980/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d9205839eab160576e3e26c05c2106a6)] -> xpath: //label[@for='fileUpload']]
+Session ID: d9205839eab160576e3e26c05c2106a6
+2025-09-28 12:45:28,071 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:45:28,423 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:48:24,992 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:48:25,018 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:48:26,178 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:48:28,371 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:48:28,414 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:48:28,414 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:49:10,081 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 12:49:10,083 [main] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.id: fileUpload (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62828}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62828/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d7f471d2aaa43e3b8ae42cd05092cf5
+2025-09-28 12:49:10,087 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:49:10,360 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:54:45,551 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:54:45,585 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:54:46,740 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:54:49,233 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:54:49,288 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:54:49,288 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:55:01,069 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:55:01,079 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:55:01,101 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:55:01,452 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 12:56:13,723 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 12:56:13,754 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 12:56:14,869 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 12:56:16,528 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 12:56:16,578 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:56:16,578 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 12:56:29,774 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:56:29,774 [main] INFO  com.ui.listeners.TestListeners - Test passed: machineTest
+2025-09-28 12:56:29,787 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 12:56:30,169 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 18:52:49,488 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 18:52:49,530 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 18:52:54,920 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 18:52:57,291 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 18:52:57,343 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 18:52:57,344 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 18:53:18,464 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 18:53:18,464 [main] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-09-28 18:53:18,480 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 18:53:18,809 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 19:07:51,620 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-09-28 19:07:51,646 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-28 19:07:54,513 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 19:07:54,513 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 19:07:54,523 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-28 19:08:01,478 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 19:08:01,481 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 19:08:03,830 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 19:08:03,830 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 19:08:13,195 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 19:08:13,196 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 19:08:13,197 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 19:08:13,953 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 19:08:15,979 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 19:08:16,033 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 19:08:16,034 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 19:08:35,269 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 19:08:35,269 [main] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-09-28 19:08:35,278 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 19:08:35,554 [main] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-09-28 19:08:36,270 [main] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-09-28 19:08:37,673 [main] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-09-28 19:08:37,714 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 19:08:37,715 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 19:08:49,428 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 19:08:49,428 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 19:08:49,428 [main] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-09-28 19:08:49,709 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-09-28 19:11:42,595 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-09-28 19:11:42,626 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-28 19:11:43,736 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-09-28 19:11:45,763 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-09-28 19:11:45,814 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 19:11:45,814 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 19:11:45,826 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-28 19:11:51,758 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 19:11:51,759 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 19:11:51,759 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-09-28 19:11:52,010 [main] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-09-28 19:11:52,779 [main] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-09-28 19:11:54,152 [main] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-09-28 19:11:54,213 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 19:11:54,213 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 19:12:02,840 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 19:12:02,852 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 19:12:02,854 [main] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-09-28 19:12:03,075 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 19:12:03,865 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 19:12:05,328 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 19:12:05,372 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 19:12:05,372 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 19:12:20,678 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 19:12:20,678 [main] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-09-28 19:12:20,678 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 19:12:20,950 [main] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-09-28 19:12:21,723 [main] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-09-28 19:12:23,372 [main] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-09-28 19:12:23,407 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 19:12:23,407 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 19:12:37,180 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 19:12:37,180 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 19:12:37,180 [main] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-09-28 19:12:37,481 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-09-28 20:11:50,294 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-09-28 20:11:50,325 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-28 20:12:49,432 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-09-28 20:12:58,750 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-09-28 20:12:58,808 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 20:12:58,808 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 20:12:58,820 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-28 20:13:21,136 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 20:13:21,138 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 20:13:21,138 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-09-28 20:13:21,383 [main] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-09-28 20:13:22,167 [main] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-09-28 20:13:26,277 [main] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-09-28 20:13:26,320 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 20:13:26,321 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 20:13:42,019 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 20:13:42,019 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 20:13:42,021 [main] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-09-28 20:13:42,233 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 20:13:42,985 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 20:13:46,527 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 20:13:46,573 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 20:13:46,573 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 20:13:59,297 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 20:13:59,297 [main] ERROR com.ui.listeners.TestListeners - Test failed: class java.lang.ThreadLocal cannot be cast to class org.openqa.selenium.JavascriptExecutor (java.lang.ThreadLocal is in module java.base of loader 'bootstrap'; org.openqa.selenium.JavascriptExecutor is in unnamed module of loader 'app')
+2025-09-28 20:13:59,303 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 20:13:59,534 [main] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-09-28 20:14:00,382 [main] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-09-28 20:14:06,174 [main] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-09-28 20:14:06,215 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 20:14:06,215 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 20:14:26,715 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 20:14:26,715 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 20:14:26,715 [main] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-09-28 20:14:27,024 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-09-28 20:15:39,869 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 20:15:39,902 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-28 20:15:40,952 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-09-28 20:15:44,107 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-09-28 20:15:44,167 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 20:15:44,168 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 20:15:44,180 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-28 20:15:49,570 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 20:15:49,571 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 20:15:49,578 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-09-28 20:15:49,854 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 20:16:04,445 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 20:16:04,468 [main] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-09-28 20:16:05,539 [main] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-09-28 20:16:07,434 [main] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-09-28 20:16:07,494 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 20:16:07,495 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 20:16:15,941 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 20:16:15,941 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 20:16:15,945 [main] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-09-28 20:16:16,257 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 20:49:47,545 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-09-28 20:49:47,584 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-28 20:49:48,775 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-09-28 20:49:51,843 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-09-28 20:49:51,882 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 20:49:51,882 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 20:49:51,893 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-28 20:49:58,870 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 20:49:58,870 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 20:49:58,886 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-09-28 20:49:59,198 [main] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-09-28 20:49:59,963 [main] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-09-28 20:50:01,760 [main] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-09-28 20:50:01,825 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 20:50:01,825 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 20:50:11,052 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 20:50:11,052 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 20:50:11,052 [main] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-09-28 20:50:11,524 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 20:50:12,398 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 20:50:14,903 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 20:50:14,964 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 20:50:14,964 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 20:50:25,153 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 20:50:25,155 [main] ERROR com.ui.listeners.TestListeners - Test failed: class java.lang.ThreadLocal cannot be cast to class org.openqa.selenium.JavascriptExecutor (java.lang.ThreadLocal is in module java.base of loader 'bootstrap'; org.openqa.selenium.JavascriptExecutor is in unnamed module of loader 'app')
+2025-09-28 20:50:25,167 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 20:50:25,167 [main] ERROR com.ui.listeners.TestListeners - Test failed: class java.lang.ThreadLocal cannot be cast to class org.openqa.selenium.TakesScreenshot (java.lang.ThreadLocal is in module java.base of loader 'bootstrap'; org.openqa.selenium.TakesScreenshot is in unnamed module of loader 'app')
+2025-09-28 20:50:25,230 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-09-28 20:56:44,721 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-09-28 20:56:44,763 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-28 20:56:45,963 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-09-28 20:56:49,766 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-09-28 20:56:49,822 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 20:56:49,823 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 20:56:49,843 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-28 20:56:57,675 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 20:56:57,675 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 20:56:57,688 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-09-28 20:56:58,016 [main] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-09-28 20:56:58,801 [main] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-09-28 20:57:03,225 [main] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-09-28 20:57:03,288 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 20:57:03,288 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 20:57:12,876 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 20:57:12,876 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 20:57:12,877 [main] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-09-28 20:57:13,104 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 20:57:13,956 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 20:57:19,964 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 20:57:20,045 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 20:57:20,046 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 20:57:33,019 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 20:57:33,019 [main] ERROR com.ui.listeners.TestListeners - Test failed: class java.lang.ThreadLocal cannot be cast to class org.openqa.selenium.JavascriptExecutor (java.lang.ThreadLocal is in module java.base of loader 'bootstrap'; org.openqa.selenium.JavascriptExecutor is in unnamed module of loader 'app')
+2025-09-28 20:57:33,606 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 20:57:33,898 [main] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-09-28 20:57:34,780 [main] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-09-28 20:57:37,804 [main] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-09-28 20:57:37,853 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 20:57:37,853 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 20:57:52,875 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 20:57:52,875 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-28 20:57:52,880 [main] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-09-28 20:57:53,268 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-09-28 21:02:55,349 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-09-28 21:02:55,388 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-28 21:02:56,560 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-09-28 21:03:02,109 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-09-28 21:03:02,171 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 21:03:02,171 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-28 21:03:02,188 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-28 21:03:12,732 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 21:03:12,733 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-28 21:03:12,743 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-09-28 21:03:13,011 [main] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-09-28 21:03:13,846 [main] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-09-28 21:03:16,363 [main] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-09-28 21:03:16,405 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 21:03:16,405 [main] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-28 21:03:26,882 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 21:03:26,883 [main] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-28 21:03:26,883 [main] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-09-28 21:03:27,177 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 21:03:28,003 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 21:03:30,988 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 21:03:31,049 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 21:03:31,049 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 21:04:31,798 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 21:04:31,810 [main] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.xpath: //h5[contains(text(),'Machine aanvragen')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51978}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51978/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 337b62cb35632f938c77c0838f63c1e0
+2025-09-28 21:04:32,501 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 21:04:32,939 [main] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-09-28 21:04:34,214 [main] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-09-28 21:04:38,202 [main] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-09-28 21:04:39,696 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 21:04:39,696 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-28 21:04:39,702 [main] WARN  com.ui.listeners.TestListeners - Test skipped: supportCreation
+2025-09-28 21:04:39,702 [main] WARN  com.ui.listeners.TestListeners - Test skipped: SupportTest.supportCreation()[pri:0, instance:com.ui.tests.SupportTest@6cce16f4]
+2025-09-28 21:04:39,739 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-09-28 22:04:09,384 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 22:04:09,430 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 22:05:21,340 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 22:05:24,666 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 22:05:24,763 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 22:05:24,764 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 22:05:47,125 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 22:05:47,126 [main] ERROR com.ui.listeners.TestListeners - Test failed: class java.lang.ThreadLocal cannot be cast to class org.openqa.selenium.JavascriptExecutor (java.lang.ThreadLocal is in module java.base of loader 'bootstrap'; org.openqa.selenium.JavascriptExecutor is in unnamed module of loader 'app')
+2025-09-28 22:05:47,718 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 22:05:48,189 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-28 22:07:08,076 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-28 22:07:08,119 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-28 22:07:09,499 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-28 22:07:18,251 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-28 22:07:18,316 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 22:07:18,317 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-28 22:07:36,343 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-28 22:07:36,343 [main] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-09-28 22:07:36,593 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-28 22:07:37,082 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-09-29 19:15:09,920 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-09-29 19:15:09,951 [TestNG-tests-1] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-29 19:15:17,970 [TestNG-tests-1] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-09-29 19:15:21,876 [TestNG-tests-1] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-09-29 19:15:21,905 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-29 19:15:21,906 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-29 19:15:21,920 [TestNG-tests-1] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-29 19:15:37,344 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-29 19:15:37,344 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-29 19:15:37,368 [TestNG-tests-1] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-09-29 19:15:37,671 [TestNG-tests-1] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-09-29 19:15:38,365 [TestNG-tests-1] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-09-29 19:15:40,509 [TestNG-tests-1] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-09-29 19:15:40,565 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-29 19:15:40,571 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-29 19:15:50,519 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-29 19:15:50,524 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-29 19:15:50,526 [TestNG-tests-1] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-09-29 19:15:50,822 [TestNG-tests-1] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-29 19:15:51,594 [TestNG-tests-1] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-29 19:15:53,151 [TestNG-tests-1] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-29 19:15:53,190 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-29 19:15:53,190 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-29 19:16:14,811 [TestNG-tests-1] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-29 19:16:14,826 [TestNG-tests-1] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-09-29 19:16:15,030 [TestNG-tests-1] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-29 19:16:15,411 [TestNG-tests-1] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-09-29 19:16:16,210 [TestNG-tests-1] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-09-29 19:16:18,077 [TestNG-tests-1] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-09-29 19:16:18,124 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-29 19:16:18,124 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-29 19:16:34,587 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-29 19:16:34,587 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-29 19:16:34,591 [TestNG-tests-1] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-09-29 19:16:34,969 [TestNG-tests-1] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-09-29 19:17:54,092 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-09-29 19:17:54,121 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-09-29 19:17:54,121 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-09-29 19:17:54,121 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-29 19:17:54,121 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-09-29 19:17:55,694 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-09-29 19:17:55,694 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-29 19:17:55,694 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-09-29 19:17:55,694 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-09-29 19:17:57,741 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-09-29 19:17:57,781 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-29 19:17:57,782 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-09-29 19:17:57,818 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-29 19:17:57,818 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-09-29 19:17:57,882 [TestNG-test=UI Automation-3] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-29 19:17:57,882 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-29 19:17:57,883 [TestNG-test=UI Automation-3] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-29 19:17:57,883 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-09-29 19:17:57,884 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-09-29 19:17:58,722 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-09-29 19:17:58,796 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-29 19:17:58,796 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-09-29 19:18:04,638 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-29 19:18:04,646 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-09-29 19:18:04,654 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-09-29 19:18:08,501 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-29 19:18:08,501 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-09-29 19:18:08,509 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-09-29 19:18:15,439 [TestNG-test=UI Automation-3] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-29 19:18:15,439 [TestNG-test=UI Automation-3] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-09-29 19:18:15,639 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-29 19:18:16,421 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-29 19:18:16,421 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-09-29 19:18:16,432 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-09-29 19:18:16,773 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-09-29 19:25:15,123 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-09-29 19:25:15,156 [main] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-09-29 19:25:16,217 [main] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-09-29 19:25:18,530 [main] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-09-29 19:25:18,578 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-29 19:25:18,578 [main] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-09-29 19:25:40,030 [main] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-09-29 19:25:40,030 [main] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-09-29 19:25:40,253 [main] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-09-29 19:25:40,688 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
