@@ -12,6 +12,6 @@ public class LogoutTest extends BaseTest {
 	@Test(description = "Verify the logout scenario")
 	public void logout() {
 		loginPage.doLoginWith(readProperty("Username",PREPROD), readProperty("Password", PREPROD)).logout();
-		Assert.assertEquals(loginPage.loginHeader(), "Log in op uw account");
+		Assert.assertEquals(loginPage.loginHeader(), "Welkom in de FrieslandCampina Webshop");
 	}
 }

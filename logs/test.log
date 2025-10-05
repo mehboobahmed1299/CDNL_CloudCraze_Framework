@@ -546,3 +546,118 @@ Session ID: 337b62cb35632f938c77c0838f63c1e0
 2025-09-29 19:25:40,030 [main] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
 2025-09-29 19:25:40,253 [main] INFO  com.ui.tests.MachineTest - Closing the browser
 2025-09-29 19:25:40,688 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-10-05 19:23:14,241 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-10-05 19:23:14,281 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-10-05 19:23:14,281 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-10-05 19:23:14,281 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-10-05 19:23:14,281 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-10-05 19:23:17,785 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-10-05 19:23:17,785 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-10-05 19:23:17,821 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-10-05 19:23:17,869 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-10-05 19:23:19,753 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-10-05 19:23:19,823 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-10-05 19:23:19,824 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-10-05 19:23:19,978 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-10-05 19:23:20,021 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-10-05 19:23:20,023 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-10-05 19:23:20,045 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-05 19:23:20,045 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-05 19:23:20,047 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-10-05 19:23:20,088 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-10-05 19:23:20,088 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-10-05 19:23:20,089 [TestNG-test=UI Automation-3] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-10-05 19:23:20,090 [TestNG-test=UI Automation-3] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-10-05 19:23:34,852 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-05 19:23:34,853 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-05 19:23:34,869 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-10-05 19:23:49,384 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-10-05 19:23:49,386 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-10-05 19:23:49,386 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-10-05 19:23:51,110 [TestNG-test=UI Automation-3] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-10-05 19:23:51,110 [TestNG-test=UI Automation-3] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-10-05 19:23:51,444 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-10-05 19:24:08,173 [TestNG-test=UI Automation-2] ERROR com.ui.listeners.TestListeners - Test failed: logout
+2025-10-05 19:24:08,177 [TestNG-test=UI Automation-2] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.xpath: //h4[contains(text(),'Log in ')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63256}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63256/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a78edfb5b2f66373e38ce7ce4b980303
+2025-10-05 19:24:08,555 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-10-05 19:24:08,941 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-10-05 19:26:57,900 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-10-05 19:26:57,940 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-10-05 19:26:57,940 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-10-05 19:26:57,940 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-10-05 19:26:57,940 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-10-05 19:26:59,721 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-10-05 19:26:59,721 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-10-05 19:26:59,723 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-10-05 19:26:59,724 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-10-05 19:27:01,469 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-10-05 19:27:01,502 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-10-05 19:27:01,552 [TestNG-test=UI Automation-3] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-10-05 19:27:01,553 [TestNG-test=UI Automation-3] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-10-05 19:27:01,589 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-10-05 19:27:01,590 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-10-05 19:27:01,692 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-10-05 19:27:01,768 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-05 19:27:01,771 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-05 19:27:01,774 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-10-05 19:27:02,201 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-10-05 19:27:02,249 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-10-05 19:27:02,249 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-10-05 19:27:07,602 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-05 19:27:07,603 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-05 19:27:07,608 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-10-05 19:27:13,909 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-10-05 19:27:13,910 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-10-05 19:27:13,912 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-10-05 19:27:15,208 [TestNG-test=UI Automation-3] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-10-05 19:27:15,208 [TestNG-test=UI Automation-3] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-10-05 19:27:15,390 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-10-05 19:27:39,691 [TestNG-test=UI Automation-2] ERROR com.ui.listeners.TestListeners - Test failed: logout
+2025-10-05 19:27:39,691 [TestNG-test=UI Automation-2] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.xpath: //h4[contains(text(),'Log in ')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57954}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57954/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ba7ed111e61253d6f2463e7aab2ea53
+2025-10-05 19:27:40,041 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-10-05 19:27:40,469 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
+2025-10-05 19:31:59,065 [main] INFO  com.ui.listeners.TestListeners - Test suite started: UI Automation
+2025-10-05 19:31:59,105 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Loading the browser
+2025-10-05 19:31:59,105 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Loading the browser
+2025-10-05 19:31:59,105 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-10-05 19:31:59,105 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-10-05 19:32:00,953 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Opening the webshop
+2025-10-05 19:32:00,953 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Opening the webshop
+2025-10-05 19:32:00,953 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-10-05 19:32:00,953 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-10-05 19:32:02,782 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-10-05 19:32:02,858 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-10-05 19:32:02,858 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-10-05 19:32:03,928 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-10-05 19:32:03,933 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Maximizing the browser
+2025-10-05 19:32:03,934 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Maximizing the browser
+2025-10-05 19:32:04,049 [TestNG-test=UI Automation-3] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-10-05 19:32:04,050 [TestNG-test=UI Automation-3] INFO  com.ui.listeners.TestListeners - Test started: machineTest
+2025-10-05 19:32:04,051 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-05 19:32:04,052 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-05 19:32:04,052 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-10-05 19:32:04,052 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test started: logout
+2025-10-05 19:32:04,054 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-10-05 19:32:09,388 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-05 19:32:09,388 [TestNG-test=UI Automation-1] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-05 19:32:09,396 [TestNG-test=UI Automation-1] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-10-05 19:32:12,957 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-10-05 19:32:12,959 [TestNG-test=UI Automation-2] INFO  com.ui.listeners.TestListeners - Test passed: logout
+2025-10-05 19:32:12,959 [TestNG-test=UI Automation-2] INFO  com.ui.tests.LogoutTest - Closing the browser
+2025-10-05 19:32:14,507 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-10-05 19:32:14,507 [TestNG-test=UI Automation-4] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-10-05 19:32:14,507 [TestNG-test=UI Automation-4] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-10-05 19:32:18,268 [TestNG-test=UI Automation-3] ERROR com.ui.listeners.TestListeners - Test failed: machineTest
+2025-10-05 19:32:18,269 [TestNG-test=UI Automation-3] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
+2025-10-05 19:32:18,422 [TestNG-test=UI Automation-3] INFO  com.ui.tests.MachineTest - Closing the browser
+2025-10-05 19:32:18,807 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: UI Automation
