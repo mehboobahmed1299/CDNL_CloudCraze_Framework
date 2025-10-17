@@ -14,8 +14,8 @@ public class LoginPage extends BrowserUtility {
 	private static final By INLOGGEN_LOCATOR=By.xpath("//input[@value='Inloggen']");
 	private static final By LOGIN_TEXT_LOCATOR=By.xpath("//form/descendant::h4");
 	
-	public LoginPage(Browser browserName) {
-		super(browserName);
+	public LoginPage(Browser browserName,boolean isHeadless) {
+		super(browserName,isHeadless);
 		// TODO Auto-generated constructor stub
 	}
 	public LoginPage(WebDriver wd) {

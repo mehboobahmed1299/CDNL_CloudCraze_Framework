@@ -6,13 +6,14 @@ import static utility.PropertiesUtility.readProperty;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import com.ui.listeners.RetryAnalyzer;
 import com.ui.pages.MachinePage;
 
 public class MachineTest extends BaseTest {
 	
 	private MachinePage machinePage;
 	
-	@Test(description = "Verify the machine order requests")
+	@Test(description = "Verify the machine order requests",retryAnalyzer = RetryAnalyzer.class)
 	public void machineTest() {
 		machinePage=loginPage.doLoginWith(readProperty("Username",PREPROD), readProperty("Password", PREPROD)).clickOnMachinePage();
 		String confrimationMsg=machinePage.submitMachineEnquiryForm();

@@ -12,6 +12,7 @@ public class HomePage extends BrowserUtility {
 	private static final By LOGOUT_LOCATOR=By.xpath("//a[normalize-space()='Logout']");
 	private static final By SUPPORT_LINK_LOCATOR=By.xpath("//a[contains(text(),'Support')]");
 	private static final By MACHINE_PAGE_LOCATOR=By.xpath("//h5[contains(text(),'Machine aanvragen')]");
+	private static final By PROMOTIONALMATERIALS_LOCATOR=By.xpath("//h5[text()='Promotiematerialen']");
 	
 	public HomePage(WebDriver wd) {
 		super(wd);
@@ -35,5 +36,8 @@ public class HomePage extends BrowserUtility {
 		clickOn(MACHINE_PAGE_LOCATOR);
 		return new MachinePage(wd.get());
 	}
-	
+	public PromotionalMaterialsPage clickOnPromotionalMaterialsPage() {
+		clickOn(PROMOTIONALMATERIALS_LOCATOR);
+		return new PromotionalMaterialsPage(wd.get());
+	}
 }

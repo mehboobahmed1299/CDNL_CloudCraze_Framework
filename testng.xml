@@ -1,8 +1,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="CDNL Automation" verbose="1" parallel="methods" thread-count="4">
   <test name="UI Automation">
-    <packages>
-      <package name="com.ui.tests"/>
-   </packages>
+  	<parameter name="browser" value="${browser}"></parameter>
+  	<parameter name="isLambda" value="${isLambda}"></parameter>
+  	<parameter name="isHeadless" value="${isHeadless}"></parameter>
+    <classes>
+      <class name="com.ui.tests.LoginTest"/>
+   </classes>
  </test>
 </suite>

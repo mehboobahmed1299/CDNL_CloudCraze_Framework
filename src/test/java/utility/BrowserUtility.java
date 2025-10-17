@@ -12,8 +12,11 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.apache.commons.io.FileUtils;
@@ -36,15 +39,31 @@ public class BrowserUtility {
 		return wd.get();
 	}
 
-	public BrowserUtility(Browser browserName) {
+	public BrowserUtility(Browser browserName,boolean isHeadless) {
 		if(browserName==Browser.CHROME) {
-			wd.set(new ChromeDriver()); ;
+			ChromeOptions options = new ChromeOptions();
+			if(isHeadless) {
+				options.addArguments("--headless=new");
+			    options.addArguments("--window-size=1920,1080");
+			}
+			options.addArguments("--incognito");
+			wd.set(new ChromeDriver(options)); ;
 			wait=new WebDriverWait(wd.get(), Duration.ofSeconds(30L));
 		}else if(browserName==Browser.EDGE) {
-			wd.set(new EdgeDriver());
+			EdgeOptions options = new EdgeOptions();
+			if(isHeadless) {
+				options.addArguments("--headless=new");   
+			    options.addArguments("--window-size=1920,1080");
+			}
+			wd.set(new EdgeDriver(options));
 			wait=new WebDriverWait(wd.get(), Duration.ofSeconds(30L));
 		}else if(browserName==Browser.FIREFOX) {
-			wd.set(new FirefoxDriver());
+			FirefoxOptions options = new FirefoxOptions();
+			if(isHeadless) {
+				options.addArguments("--headless");
+			    options.addArguments("--window-size=1920,1080");
+			}
+			wd.set(new FirefoxDriver(options));
 			wait=new WebDriverWait(wd.get(), Duration.ofSeconds(30L));
 		}else {
 			System.err.println("Invalid Browser name");
@@ -58,6 +77,13 @@ public class BrowserUtility {
 	
 	public void maximizeWindow() {
 		wd.get().manage().window().maximize();
+	}
+	public void deleteCookies() {
+		wd.get().manage().deleteAllCookies();
+		JavascriptExecutor js = (JavascriptExecutor)wd.get();
+	    js.executeScript("window.localStorage.clear();");
+	    js.executeScript("window.sessionStorage.clear();");
+	    wd.get().navigate().refresh();
 	}
 	
 	public void enterText(By locator,String text) {
@@ -90,7 +116,7 @@ public class BrowserUtility {
 		 TakesScreenshot screenshot=(TakesScreenshot)wd.get();
 		 File src=screenshot.getScreenshotAs(OutputType.FILE);
 		 String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
-		 String path=System.getProperty("user.dir")+"screenshots"+fileName+"_"+ timeStamp+ ".png";
+		 String path=System.getProperty("user.dir")+"//screenshots//"+fileName+"_"+ timeStamp+ ".png";
 		 try {
 			FileUtils.copyFile(src, new File(path));
 		} catch (IOException e) {
