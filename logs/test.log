@@ -1554,3 +1554,47 @@ Session ID: 0fe3f6d051f2a6a1e6cd83667fabfce2
 2025-10-18 01:48:46,819 [main] ERROR com.ui.listeners.TestListeners - Test failed: expected [Request confirmed] but found [Aanvraag bevestigd!]
 2025-10-18 01:48:46,895 [main] INFO  com.ui.tests.MachineTest - Closing the browser
 2025-10-18 01:48:47,058 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-10-18 03:09:20,048 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-10-18 03:09:20,118 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-10-18 03:09:21,823 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-10-18 03:09:25,077 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-10-18 03:09:25,125 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-18 03:09:25,126 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-18 03:09:25,139 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-10-18 03:09:25,140 [main] INFO  com.ui.tests.LoginTest - User details: jigrekuttitreu-9785@yopmail.com A126@meds
+2025-10-18 03:09:33,542 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-18 03:09:33,542 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-18 03:09:33,551 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-10-18 03:09:33,814 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-10-18 03:09:34,641 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-10-18 03:09:36,516 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-10-18 03:09:36,546 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-18 03:09:36,546 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-18 03:09:36,554 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-10-18 03:09:36,555 [main] INFO  com.ui.tests.LoginTest - User details: prottifanniza-7831@yopmail.com A126@meds
+2025-10-18 03:09:42,626 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-18 03:09:42,626 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-18 03:09:42,626 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-10-18 03:09:42,921 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-10-18 11:49:19,483 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-10-18 11:49:19,565 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-10-18 11:49:21,425 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-10-18 11:49:27,491 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-10-18 11:49:27,520 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-18 11:49:27,521 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-18 11:49:27,532 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-10-18 11:49:27,532 [main] INFO  com.ui.tests.LoginTest - User details: jigrekuttitreu-9785@yopmail.com A126@meds
+2025-10-18 11:49:46,620 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-18 11:49:46,621 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-18 11:49:46,626 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-10-18 11:49:46,774 [main] INFO  com.ui.tests.LoginTest - Loading the browser
+2025-10-18 11:49:47,528 [main] INFO  com.ui.tests.LoginTest - Opening the webshop
+2025-10-18 11:49:49,612 [main] INFO  com.ui.tests.LoginTest - Maximizing the browser
+2025-10-18 11:49:49,638 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-18 11:49:49,639 [main] INFO  com.ui.listeners.TestListeners - Test started: loginTest
+2025-10-18 11:49:49,640 [main] INFO  com.ui.tests.LoginTest - Verifying the home page banner
+2025-10-18 11:49:49,641 [main] INFO  com.ui.tests.LoginTest - User details: prottifanniza-7831@yopmail.com A126@meds
+2025-10-18 11:49:56,982 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-18 11:49:56,983 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
+2025-10-18 11:49:56,984 [main] INFO  com.ui.tests.LoginTest - Closing the browser
+2025-10-18 11:49:57,132 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test

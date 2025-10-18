@@ -7,6 +7,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CDNL_CloudCraze_Framework</name>
 	<description>End to End testing framework for CDNL H&amp;B Cloudcraze</description>
+	<properties>
+		<browser>chrome</browser>
+		<isLambda>false</isLambda>
+		<isHeadless>true</isHeadless>
+	</properties>
 	<build>
 		<plugins>
 			<plugin>

@@ -36,6 +36,7 @@ public class BaseTest {
 		if(isLambda) {
 			lambdaDriver=LambdaTestUtility.initializeLambdaTest(browserName,result.getMethod().getMethodName());
 			loginPage=new LoginPage(lambdaDriver);
+			System.out.println("URL loaded from properties = " + readProperty("URL", PREPROD));
 			loginPage.goToWebsite(readProperty("URL",PREPROD));
 			loginPage.maximizeWindow();
 		}
