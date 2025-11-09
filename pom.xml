@@ -10,7 +10,7 @@
 	<properties>
 		<browser>chrome</browser>
 		<isLambda>false</isLambda>
-		<isHeadless>false</isHeadless>
+		<isHeadless>true</isHeadless>
 	</properties>
 	<build>
 		<plugins>
