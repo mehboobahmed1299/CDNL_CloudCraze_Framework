@@ -30,7 +30,7 @@ public class BaseTest {
 	@BeforeMethod(description = "Load the browser and open the website")
 	public void setUp(@Optional("chrome")String browserName,
 			          @Optional("false")boolean isLambda,
-			          @Optional("true")boolean isHeadless,ITestResult result){
+			          @Optional("false")boolean isHeadless,ITestResult result){
 		WebDriver lambdaDriver;
 		this.isLambda=isLambda;
 		if(isLambda) {
@@ -55,11 +55,11 @@ public class BaseTest {
 		return loginPage;
 	}
 	
-	@AfterMethod
+	/*@AfterMethod
     public void teardown() {
         if (loginPage != null) {
         	logger.info("Closing the browser");
             loginPage.getWd().quit(); // or driver.quit()
         }
-    }
+    }*/
 }

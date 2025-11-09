@@ -31,14 +31,10 @@ public class BrowserUtility {
 	private WebDriverWait wait;
 
 	public BrowserUtility(WebDriver wd) {
-		this.wd.set(wd);;
+		this.wd.set(wd);
 		wait=new WebDriverWait(wd, Duration.ofSeconds(30L));
 	}
 	
-	public WebDriver getWd() {
-		return wd.get();
-	}
-
 	public BrowserUtility(Browser browserName,boolean isHeadless) {
 		if(browserName==Browser.CHROME) {
 			ChromeOptions options = new ChromeOptions();
@@ -47,7 +43,7 @@ public class BrowserUtility {
 			    options.addArguments("--window-size=1920,1080");
 			}
 			options.addArguments("--incognito");
-			wd.set(new ChromeDriver(options)); ;
+			wd.set(new ChromeDriver(options));
 			wait=new WebDriverWait(wd.get(), Duration.ofSeconds(30L));
 		}else if(browserName==Browser.EDGE) {
 			EdgeOptions options = new EdgeOptions();
@@ -69,6 +65,9 @@ public class BrowserUtility {
 			System.err.println("Invalid Browser name");
 		}
 
+	}
+	public WebDriver getWd() {
+		return wd.get();
 	}
 	
 	public void goToWebsite(String url) {

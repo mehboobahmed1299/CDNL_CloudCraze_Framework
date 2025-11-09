@@ -18,8 +18,9 @@ public class CartPage extends BrowserUtility {
 		return getText(POSITEMNAME);
 	}
 	
-	public void goToCheckout() {
+	public CheckoutPage goToCheckout() {
 		clickOn(GO_TO_CHECKOUT);
+		return new CheckoutPage(wd.get());
 	}
 
 }

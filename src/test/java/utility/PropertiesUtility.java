@@ -1,7 +1,6 @@
 package utility;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -12,23 +11,18 @@ import com.ui.constants.Env;
 public class PropertiesUtility {
 
 	public static String readProperty(String propertyName,Env env){
-		// TODO Auto-generated method stub
 		File propFile=new File(Paths.get(System.getProperty("user.dir"), "config", env + ".properties").toString());
 		FileReader fileReader = null;
-		Properties properties=new Properties();;
+		Properties properties=new Properties();
 		try {
 			fileReader = new FileReader(propFile);
 			properties.load(fileReader);
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		catch(IOException e) {
+		} catch (IOException e) {
 			e.printStackTrace();
 		}
 		
-		String value=properties.getProperty(propertyName);
-		return value;
+		
+		return properties.getProperty(propertyName);
 	}
 
 }

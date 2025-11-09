@@ -1598,3 +1598,126 @@ Session ID: 0fe3f6d051f2a6a1e6cd83667fabfce2
 2025-10-18 11:49:56,983 [main] INFO  com.ui.listeners.TestListeners - Test passed: loginTest
 2025-10-18 11:49:56,984 [main] INFO  com.ui.tests.LoginTest - Closing the browser
 2025-10-18 11:49:57,132 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 12:34:23,056 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 12:34:23,131 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 12:34:27,165 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 12:34:30,419 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 12:34:30,468 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 12:34:30,469 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 12:34:46,744 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 12:34:46,745 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 12:34:46,751 [main] INFO  com.ui.tests.ProductTest - Closing the browser
+2025-11-08 12:34:47,445 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 12:35:51,118 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 12:35:51,170 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 12:35:53,128 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 12:35:55,917 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 12:35:55,963 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 12:35:55,963 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 12:36:08,094 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 12:36:08,097 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 12:36:08,102 [main] INFO  com.ui.tests.ProductTest - Closing the browser
+2025-11-08 12:36:08,783 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 12:37:06,619 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 12:37:06,661 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 12:37:08,447 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 12:37:11,334 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 12:37:11,413 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 12:37:11,413 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 12:37:22,219 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 12:37:22,219 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 12:37:22,224 [main] INFO  com.ui.tests.ProductTest - Closing the browser
+2025-11-08 12:37:22,914 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 12:42:13,905 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 12:42:13,942 [main] INFO  com.ui.tests.SupportTest - Loading the browser
+2025-11-08 12:42:15,963 [main] INFO  com.ui.tests.SupportTest - Opening the webshop
+2025-11-08 12:42:19,037 [main] INFO  com.ui.tests.SupportTest - Maximizing the browser
+2025-11-08 12:42:19,220 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-11-08 12:42:19,222 [main] INFO  com.ui.listeners.TestListeners - Test started: supportCreation
+2025-11-08 12:42:44,415 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-11-08 12:42:44,417 [main] INFO  com.ui.listeners.TestListeners - Test passed: supportCreation
+2025-11-08 12:42:44,428 [main] INFO  com.ui.tests.SupportTest - Closing the browser
+2025-11-08 12:42:45,475 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 13:44:43,994 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 13:44:44,059 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 13:44:49,567 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 13:44:54,444 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 13:44:54,592 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 13:44:54,594 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 13:46:03,301 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 13:46:03,308 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 13:46:03,324 [main] INFO  com.ui.tests.ProductTest - Closing the browser
+2025-11-08 13:46:04,294 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 14:17:39,006 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 14:17:39,131 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 14:17:42,694 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 14:17:46,590 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 14:17:46,758 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:17:46,760 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:18:00,782 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 14:18:00,788 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 14:18:00,806 [main] INFO  com.ui.tests.ProductTest - Closing the browser
+2025-11-08 14:18:01,765 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 14:21:55,455 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 14:21:55,584 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 14:21:58,294 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 14:22:01,108 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 14:22:01,414 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:22:01,415 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:22:58,260 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 14:22:58,312 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 14:23:01,378 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 14:23:04,369 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 14:23:04,533 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:23:04,534 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:23:48,527 [main] ERROR com.ui.listeners.TestListeners - Test failed: productTest
+2025-11-08 14:23:48,529 [main] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Ga naar afrekenen')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.108, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\MEHBUB~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54386}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54386/devtoo..., se:cdpVersion: 141.0.7390.108, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: efd64a23535d82ea048dc856cf1721b4
+2025-11-08 14:23:48,988 [main] INFO  com.ui.tests.ProductTest - Closing the browser
+2025-11-08 14:23:49,916 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 14:24:50,661 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 14:24:50,725 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 14:24:53,337 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 14:24:56,987 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 14:24:57,116 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:24:57,117 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:25:15,336 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 14:25:15,343 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 14:25:15,350 [main] INFO  com.ui.tests.ProductTest - Closing the browser
+2025-11-08 14:25:16,251 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 14:32:41,942 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 14:32:42,060 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 14:32:45,414 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 14:32:48,191 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 14:32:48,509 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:32:48,511 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:33:43,736 [main] ERROR com.ui.listeners.TestListeners - Test failed: productTest
+2025-11-08 14:33:43,740 [main] ERROR com.ui.listeners.TestListeners - Test failed: Expected condition failed: waiting for visibility of element located by By.id: #txtWholesalerSearch (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.108, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\MEHBUB~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59228}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59228/devtoo..., se:cdpVersion: 141.0.7390.108, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ed7bdfd06e10b4fa4eb8f870c9d7aae
+2025-11-08 14:33:44,145 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 14:35:43,781 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 14:35:43,836 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 14:35:46,976 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 14:35:49,003 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 14:35:49,070 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:35:49,072 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:36:14,477 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 14:36:14,482 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 14:36:14,586 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
+2025-11-08 14:39:48,618 [main] INFO  com.ui.listeners.TestListeners - Test suite started: Default test
+2025-11-08 14:39:48,695 [main] INFO  com.ui.tests.ProductTest - Loading the browser
+2025-11-08 14:39:51,572 [main] INFO  com.ui.tests.ProductTest - Opening the webshop
+2025-11-08 14:39:54,276 [main] INFO  com.ui.tests.ProductTest - Maximizing the browser
+2025-11-08 14:39:54,408 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:39:54,409 [main] INFO  com.ui.listeners.TestListeners - Test started: productTest
+2025-11-08 14:40:19,124 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 14:40:19,129 [main] INFO  com.ui.listeners.TestListeners - Test passed: productTest
+2025-11-08 14:40:19,239 [main] INFO  com.ui.listeners.TestListeners - Test suite ended: Default test
