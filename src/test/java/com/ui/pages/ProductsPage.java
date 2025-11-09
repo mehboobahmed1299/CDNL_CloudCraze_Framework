@@ -21,8 +21,5 @@ public class ProductsPage extends BrowserUtility {
 		clickOn(CART_ICON);
 		return new CartPage(getWd());
 	}
-	public void test() {
-		
-	}
 
 }
