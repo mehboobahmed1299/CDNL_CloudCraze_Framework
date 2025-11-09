@@ -19,6 +19,6 @@ public class ProductTest extends BaseTest {
 		ProductsPage productPage=loginPage.doLoginWith(readProperty("Username",PREPROD), readProperty("Password", PREPROD)).clickOnProductPage();
 		CartPage cartPage=productPage.addToCart();
 		CheckoutPage checkoutPage=cartPage.goToCheckout();
-		checkoutPage.selectWholerSaler();;
+		checkoutPage.selectWholerSaler();
 	}
 }
